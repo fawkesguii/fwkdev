@@ -1,7 +1,7 @@
 ---
-title: "FWKDev: A vida de um profissional de TI"
-featured_image: '../images/notebook.jpg'
-description: "Algo que possa te ajudar ... Talvez"
+title: "FWKDev: Computação na Prática"
+featured_image: '../The-Matrix-code.jpg'
+description: "Algo que possa te ajudar ... ou talvez não."
 ---
 
 
