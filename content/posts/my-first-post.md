@@ -1,63 +1,28 @@
-
 ---
-
 title: "My First Post"
-
 date: 2019-04-23T09:39:23+02:00
-
 description: This is an introduction post to showcase Hugo.
-
 slug: hello-world-my-first-post
-
 categories:
-
 - hugo
-
 - blog
-
 tags:
-
 - helloworld
-
 - hugo
-
 - blog
-
 draft: false
-
 ---
-
-  
 
 ![](https://i.ytimg.com/vi/fPOSAfxhZLg/maxresdefault.jpg)
 
-  
-
 Hello world and welcome to my first post
 
-  
-
 ## New Beginning
-
-  
-
 This is a new beginning on my blog on hugo and this seems pretty cool so im adding random text here because I dont know **what** to add here. So im adding a lot more random text here.
-
-  
-
 This is another test.
 
-  
-
 ## Code
-
-  
-
 This is python code:
-
-  
-  
-
 ```python
 from random import randint
 from faker import Fake
