@@ -1,0 +1,28 @@
+baseURL = "https://fwkdev.github.io/"
+languageCode = "pt-br"
+title = "FWKDev"
+description = "Iniciando meu blog Pessoal"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "pt"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/fawkesguii"
+  gitlab = "https://gitlab.com/FWKGuii"
+  linkedin = ""
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 5
