@@ -11,7 +11,7 @@ tags:
 - Data Visualization
 - Tableau
 - Bussiness Intelligence
-draft: true
+draft: false
 author: FawkesGuii
 ---
 
